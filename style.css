@@ -1,0 +1,19 @@
+*{
+    font-family:Georgia, 'Times New Roman', Times, serif;
+}
+body{
+    text-align: center;
+    padding: 40px;
+    
+}
+body div{
+    margin-top: 100px;
+    letter-spacing: 3px;
+    word-spacing: 3px;  
+}
+#toggleTheme{
+    padding: 10px;
+    background-color: brown;
+    color: white;
+    border: 0;
+}
